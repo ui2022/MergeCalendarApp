@@ -1,3 +1,27 @@
 <resources>
-    <string name="app_name">MergeCalendarApp</string>
+    <string name="app_name">signin3</string>
+    <string name="remember_me">Remember me</string>
+    <string name="name">Name</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="login">LOGIN</string>
+    <string name="password">Name</string>
+    <string name="this_is_2">This is 2</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="loading">loading</string>
+    <string name="next">Next</string>
+    <string name="name2">Name</string>
+    <string name="textview">TextView</string>
+    <string name="forgot_password2">Forgot Password</string>
+    <string name="let_s_find_your_account_start_by_telling_us_your_username">Let\'s find your account start by telling us your username</string>
+    <string name="confrim_your_identity">Confrim your identity</string>
+    <string name="phone_call_xxx_xxx_xxxx">Phone Call xxx-xxx-xxxx</string>
+    <string name="button">Button</string>
+    <string name="text_message_xxx_xx_xxxx">Text Message xxx-xx-xxxx</string>
+    <string name="radiobutton">RadioButton</string>
+    <string name="we_ll_send_you_a_one_time_code_to_confirm_your_identity_for_your_security_your_password_expires_when_you_get_your_code">We\'ll send you a one-time code to confirm your identity For your security, your password expires when you get your code</string>
+    <string name="name3">Name</string>
+    <string name="sign_in2">Sign In</string>
+    <string name="reset_password">Reset Password</string>
 </resources>
