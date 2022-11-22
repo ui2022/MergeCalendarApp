@@ -1,8 +1,10 @@
-package com.example.mergecalendarapp;
+package com.example.signin3;
+
+import android.content.Intent;
+import android.os.Bundle;
+import android.view.View;
 
 import androidx.appcompat.app.AppCompatActivity;
-
-import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -11,4 +13,15 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+
+    public void buttonClick2(View view) {
+        Intent i = new Intent(MainActivity.this, MainActivity2.class);
+        MainActivity.this.startActivity(i);
+    }
+
+    public void buttonClick(View view) {
+        Intent i = new Intent(MainActivity.this, MainActivity3.class);
+        MainActivity.this.startActivity(i);
+    }
+
 }
